@@ -6,8 +6,9 @@
 
 I am a software engineering student. Patience
 - 🌱 I’m currently learning ...
-  - Java
-  - C#
+  - JavaScript
+  - TypeScript
+  - Tailwind CSS
 - 🏯Watashi wa nicolas des si aja
 - ❓hardest moment btw
 
